@@ -7,5 +7,5 @@ setup(
     name=package_name,
     version=package_version,
     author="some author",
-    install_requires=["requests", "numpy", "Django==1.9.6"],
+    install_requires=["requests", "numpy", "Django==1.7.11"],
 )
